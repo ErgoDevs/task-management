@@ -1,6 +1,6 @@
 # ErgoDevs DAO Task Management
 
-Welsome ErgoDevs DAO 
+Welcome to ErgoDevs DAO public tasks list!
 
 ## Donations
 
